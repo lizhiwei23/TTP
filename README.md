@@ -4,11 +4,12 @@ Code for **TTP: Test-Time Padding for Adversarial Detection and Robust Adaptatio
 
 Zhiwei Li, Yitian Pang, Weining Wang, Zhenan Sun, Qi Li.
 
-TTP detects potentially adversarial inputs using the cosine similarity of CLIP image features before and after spatial padding. Detected inputs receive one instance-specific padding update followed by similarity-weighted view aggregation. Clean inputs bypass adaptation, or optionally use TPT.
-
 <p align="center">
   <img src="assets/framework.png" width="100%" alt="TTP Framework">
 </p>
+
+TTP detects potentially adversarial inputs using the cosine similarity of CLIP image features before and after spatial padding. Detected inputs receive one instance-specific padding update followed by similarity-weighted view aggregation. Clean inputs bypass adaptation, or optionally use TPT.
+
 
 ## Implementation status
 
