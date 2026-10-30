@@ -1,9 +1,0 @@
-# Install a matching torch/torchvision pair for your CUDA platform first.
-torch>=2.3
-torchvision>=0.18
-numpy
-Pillow
-ftfy
-regex
-tqdm
-packaging
