@@ -1,6 +1,6 @@
-# TTP: Test-Time Padding
+# Official implementation for TTP: Test-Time Padding
 
-Code for **[[CVPR2026] TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_TTP_Test-Time_Padding_for_Adversarial_Detection_and_Robust_Adaptation_on_CVPR_2026_paper.pdf)**.
+**[[CVPR2026] TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_TTP_Test-Time_Padding_for_Adversarial_Detection_and_Robust_Adaptation_on_CVPR_2026_paper.pdf)**.
 
 Zhiwei Li, Yitian Pang, Weining Wang, Zhenan Sun, Qi Li.
 
